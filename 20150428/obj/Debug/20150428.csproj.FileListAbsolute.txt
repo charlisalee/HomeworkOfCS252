@@ -1,0 +1,5 @@
+C:\workspace_vss\HomeworkOfCS252\20150428\bin\Debug\20150428.exe.config
+C:\workspace_vss\HomeworkOfCS252\20150428\bin\Debug\20150428.exe
+C:\workspace_vss\HomeworkOfCS252\20150428\bin\Debug\20150428.pdb
+C:\workspace_vss\HomeworkOfCS252\20150428\obj\Debug\20150428.exe
+C:\workspace_vss\HomeworkOfCS252\20150428\obj\Debug\20150428.pdb
